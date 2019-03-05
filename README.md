@@ -1,0 +1,1 @@
+springBoot版本的crm框架，springMVC+JPA+MiniDao,对应的maven仓库jar包
